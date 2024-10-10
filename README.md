@@ -1,1 +1,1 @@
-https://denii-zyazikov.github.io/MP3/
+https://denii-zyazikov.github.io/MP3-Player-/
